@@ -1,0 +1,10 @@
+{
+  "bag_kg": 60,
+  "tare_kg_per_bag": 1,
+  "container_owners": ["DFSU", "MEDU", "MSCU", "TGHU", "TEMU", "CAIU", "TRHU", "MRKU", "MSKU", "HLXU", "CMAU", "OOLU", "GESU", "BMOU", "TCNU", "FCIU", "SEGU", "TLLU"],
+  "ports": ["HAMBURG, GERMANY", "ANTWERP, BELGIUM", "ROTTERDAM, NETHERLANDS", "LONDON GATEWAY, UK", "FELIXSTOWE, UK", "MOMBASA, KENYA", "DAR ES SALAAM, TANZANIA", "GENOA, ITALY", "LE HAVRE, FRANCE"],
+  "borders": ["RUSUMO, DAR ES SALAAM", "RUSUMO, MOMBASA", "GATUNA, MOMBASA"],
+  "locations": ["KIGALI, RWANDA"],
+  "clients": [],
+  "commodities": ["COFFEE"]
+}
